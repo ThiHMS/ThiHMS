@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous+Static&weight=300&size=30&pause=1000&color=2744F6&width=435&lines=Bem+vindo+ao+meu+perfil!;Focado+em+projetos+e+laborat%C3%B3rios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous+Static&weight=300&size=30&pause=1000&color=2744F6&width=435&lines=Bem+vindo+ao+meu+perfil!;Focado+em+projetos+e+Labs)](https://git.io/typing-svg)
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Metamorphous&display=swap');
 </style>
