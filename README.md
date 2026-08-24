@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thiago H M da Silva
 
 <!--
 **ThiHMS/ThiHMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
