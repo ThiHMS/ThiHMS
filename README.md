@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/thiago-h-m-da-silva-64b7b6334" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="SUA_URL_DO_YOUTUBE_AQUI" target="_blank">
+  <a href="https://www.youtube.com/@LaboratorioDoMelone" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
